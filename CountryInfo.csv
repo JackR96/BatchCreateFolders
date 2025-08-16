@@ -1,0 +1,198 @@
+主要区域,次级区域,中文名称,英文名称,繁體中文名稱,电话,域名
+亚洲,东亚,日本,Japan,日本,+81,.jp
+,,韩国,South Korea,韓國,+82,.kr
+,,中国,China,中國,+86,.cn
+,,朝鲜,North Korea,朝鮮,+850,.kp
+,,香港,Hong Kong,香港,+852,.hk
+,,澳门,Macau,澳門,+853,.mo
+,,台湾,Taiwan,臺灣,+886,.tw
+,,蒙古,Mongolia,蒙古,+976,.mn
+,东南亚,马来西亚,Malaysia,馬來西亞,+60,.my
+,,印度尼西亚,Indonesia,印度尼西亞,+62,.id
+,,菲律宾,Philippines,菲律賓,+63,.ph
+,,新加坡,Singapore,新加坡,+65,.sg
+,,泰国,Thailand,泰國,+66,.th
+,,越南,Vietnam,越南,+84,.vn
+,,柬埔寨,Cambodia,柬埔寨,+855,.kh
+,,老挝,Laos,寮國,+856,.la
+,,缅甸,Myanmar,緬甸,+95,.mm
+,,文莱,Brunei,汶萊,+673,.bn
+,,东帝汶,Timor-Leste,東帝汶,+670,.tl
+,南亚,孟加拉国,Bangladesh,孟加拉國,+880,.bd
+,,印度,India,印度,+91,.in
+,,巴基斯坦,Pakistan,巴基斯坦,+92,.pk
+,,阿富汗,Afghanistan,阿富汗,+93,.af
+,,斯里兰卡,Sri Lanka,斯里蘭卡,+94,.lk
+,,伊朗,Iran,伊朗,+98,.ir
+,,马尔代夫,Maldives,馬爾地夫,+960,.mv
+,,不丹,Bhutan,不丹,+975,.bt
+,,尼泊尔,Nepal,尼泊爾,+977,.np
+,中亚,哈萨克斯坦,Kazakhstan,哈薩克斯坦,+7,.kz
+,,塔吉克斯坦,Tajikistan,塔吉克斯坦,+992,.tj
+,,土库曼斯坦,Turkmenistan,土庫曼斯坦,+993,.tm
+,,吉尔吉斯斯坦,Kyrgyzstan,吉爾吉斯斯坦,+996,.kg
+,,乌兹别克斯坦,Uzbekistan,烏茲別克斯坦,+998,.uz
+,中东,科威特,Kuwait,科威特,+965,.kw
+,,沙特阿拉伯,Saudi Arabia,沙烏地阿拉伯,+966,.sa
+,,也门,Yemen,葉門,+967,.ye
+,,阿曼,Oman,阿曼,+968,.om
+,,巴勒斯坦,Palestine,巴勒斯坦,+970,.ps
+,,阿拉伯联合酋长国,United Arab Emirates,阿拉伯聯合大公國,+971,.ae
+,,以色列,Israel,以色列,+972,.il
+,,巴林,Bahrain,巴林,+973,.bh
+,,卡塔尔,Qatar,卡達,+974,.qa
+,,黎巴嫩,Lebanon,黎巴嫩,+961,.lb
+,,约旦,Jordan,約旦,+962,.jo
+,,叙利亚,Syria,敘利亞,+963,.sy
+,,伊拉克,Iraq,伊拉克,+964,.iq
+欧洲,西欧,荷兰,Netherlands,荷蘭,+31,.nl
+,,比利时,Belgium,比利時,+32,.be
+,,法国,France,法國,+33,.fr
+,,英国,United Kingdom,英國,+44,.uk
+,,德国,Germany,德國,+49,.de
+,,瑞士,Switzerland,瑞士,+41,.ch
+,,奥地利,Austria,奧地利,+43,.at
+,,卢森堡,Luxembourg,盧森堡,+352,.lu
+,,爱尔兰,Ireland,愛爾蘭,+353,.ie
+,,列支敦士登,Liechtenstein,列支敦斯登,+423,.li
+,,摩纳哥,Monaco,摩納哥,+377,.mc
+,北欧,丹麦,Denmark,丹麥,+45,.dk
+,,瑞典,Sweden,瑞典,+46,.se
+,,挪威,Norway,挪威,+47,.no
+,,冰岛,Iceland,冰島,+354,.is
+,,芬兰,Finland,芬蘭,+358,.fi
+,东欧,俄罗斯,Russia,俄羅斯,+7,.ru
+,,捷克共和国,Czech Republic,捷克,+420,.cz
+,,斯洛伐克,Slovakia,斯洛伐克,+421,.sk
+,,匈牙利,Hungary,匈牙利,+36,.hu
+,,罗马尼亚,Romania,羅馬尼亞,+40,.ro
+,,波兰,Poland,波蘭,+48,.pl
+,,保加利亚,Bulgaria,保加利亞,+359,.bg
+,,乌克兰,Ukraine,烏克蘭,+380,.ua
+,,白俄罗斯,Belarus,白俄羅斯,+375,.by
+,,摩尔多瓦,Moldova,摩爾多瓦,+373,.md
+,,立陶宛,Lithuania,立陶宛,+370,.lt
+,,拉脱维亚,Latvia,拉脫維亞,+371,.lv
+,,爱沙尼亚,Estonia,愛沙尼亞,+372,.ee
+,南欧,希腊,Greece,希臘,+30,.gr
+,,意大利,Italy,義大利,+39,.it
+,,葡萄牙,Portugal,葡萄牙,+351,.pt
+,,西班牙,Spain,西班牙,+34,.es
+,,土耳其,Turkey,土耳其,+90,.tr
+,,阿尔巴尼亚,Albania,阿爾巴尼亞,+355,.al
+,,马耳他,Malta,馬爾他,+356,.mt
+,,塞浦路斯,Cyprus,賽普勒斯,+357,.cy
+,,圣马力诺,San Marino,聖馬利諾,+378,.sm
+,,梵蒂冈城,Vatican City,梵蒂岡,+379,.va
+,,塞尔维亚,Serbia,塞爾維亞,+381,.rs
+,,黑山,Montenegro,蒙特內哥羅,+382,.me
+,,克罗地亚,Croatia,克羅埃西亞,+385,.hr
+,,斯洛文尼亚,Slovenia,斯洛維尼亞,+386,.si
+,,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,波士尼亞與赫塞哥維納,+387,.ba
+,,北马其顿,North Macedonia,北馬其頓,+389,.mk
+,,安道尔,Andorra,安道爾,+376,.ad
+北美洲,,美国,United States,美國,+1,.us
+,,加拿大,Canada,加拿大,+1,.ca
+,,格陵兰,Greenland,格陵蘭,+299,.gl
+,,圣皮埃尔和密克隆,Saint Pierre and Miquelon,聖皮埃與密克隆群島,+508,.pm
+拉美,中美洲,伯利兹,Belize,貝里斯,+501,.bz
+,,危地马拉,Guatemala,瓜地馬拉,+502,.gt
+,,萨尔瓦多,El Salvador,薩爾瓦多,+503,.sv
+,,洪都拉斯,Honduras,宏都拉斯,+504,.hn
+,,尼加拉瓜,Nicaragua,尼加拉瓜,+505,.ni
+,,哥斯达黎加,Costa Rica,哥斯大黎加,+506,.cr
+,,巴拿马,Panama,巴拿馬,+507,.pa
+,,墨西哥,Mexico,墨西哥,+52,.mx
+,加勒比地区,海地,Haiti,海地,+509,.ht
+,,古巴,Cuba,古巴,+53,.cu
+,,巴哈马,Bahamas,巴哈馬,+1-242,.bs
+,,巴巴多斯,Barbados,巴貝多,+1-246,.bb
+,,安提瓜和巴布达,Antigua and Barbuda,安地卡及巴布達,+1-268,.ag
+,,格林纳达,Grenada,格瑞那達,+1-473,.gd
+,,圣卢西亚,Saint Lucia,聖露西亞,+1-758,.lc
+,,多米尼克,Dominica,多米尼克,+1-767,.dm
+,,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,聖文森及格瑞那丁,+1-784,.vc
+,,多米尼加共和国,Dominican Republic,多明尼加,"+1-809, +1-829, +1-849",.do
+,,特立尼达和多巴哥,Trinidad and Tobago,千里達及托巴哥,+1-868,.tt
+,,圣基茨和尼维斯,Saint Kitts and Nevis,聖克里斯多福及尼維斯,+1-869,.kn
+,,牙买加,Jamaica,牙買加,+1-876,.jm
+,南美洲,秘鲁,Peru,秘魯,+51,.pe
+,,阿根廷,Argentina,阿根廷,+54,.ar
+,,巴西,Brazil,巴西,+55,.br
+,,智利,Chile,智利,+56,.cl
+,,哥伦比亚,Colombia,哥倫比亞,+57,.co
+,,委内瑞拉,Venezuela,委內瑞拉,+58,.ve
+,,玻利维亚,Bolivia,玻利維亞,+591,.bo
+,,圭亚那,Guyana,蓋亞那,+592,.gy
+,,厄瓜多尔,Ecuador,厄瓜多,+593,.ec
+,,巴拉圭,Paraguay,巴拉圭,+595,.py
+,,苏里南,Suriname,蘇利南,+597,.sr
+,,乌拉圭,Uruguay,烏拉圭,+598,.uy
+大洋洲,,澳大利亚,Australia,澳大利亞,+61,.au
+,,新西兰,New Zealand,紐西蘭,+64,.nz
+,,瑙鲁,Nauru,諾魯,+674,.nr
+,,巴布亚新几内亚,Papua new Guinea,巴布亞紐幾內亞,+675,.pg
+,,汤加,Tonga,東加,+676,.to
+,,所罗门群岛,Solomon Islands,索羅門群島,+677,.sb
+,,瓦努阿图,Vanuatu,萬那杜,+678,.vu
+,,斐济,Fiji,斐濟,+679,.fj
+,,帕劳,Palau,帛琉,+680,.pw
+,,萨摩亚,Samoa,薩摩亞,+685,.ws
+,,基里巴斯,Kiribati,吉里巴斯,+686,.ki
+,,图瓦卢,Tuvalu,吐瓦魯,+688,.tv
+,,密克罗尼西亚,Micronesia,密克羅尼西亞,+691,.fm
+,,马绍尔群岛,Marshall Islands,馬紹爾群島,+692,.mh
+非洲,北非,埃及,Egypt,埃及,+20,.eg
+,,摩洛哥,Morocco,摩洛哥,+212,.ma
+,,阿尔及利亚,Algeria,阿爾及利亞,+213,.dz
+,,突尼斯,Tunisia,突尼西亞,+216,.tn
+,,利比亚,Libya,利比亞,+218,.ly
+,,苏丹,Sudan,蘇丹,+249,.sd
+,东非,毛里求斯,Mauritius,模里西斯,+230,.mu
+,,南苏丹,South Sudan,南蘇丹,+211,.ss
+,,坦桑尼亚,Tanzania,坦尚尼亞,+251,.tz
+,,卢旺达,Rwanda,盧安達,+250,.rw
+,,索马里,Somalia,索馬利亞,+252,.so
+,,吉布提,Djibouti,吉布地,+253,.dj
+,,肯尼亚,Kenya,肯亞,+254,.ke
+,,乌干达,Uganda,烏干達,+256,.ug
+,,布隆迪,Burundi,蒲隆地,+257,.bi
+,,莫桑比克,Mozambique,莫三比克,+258,.mz
+,,赞比亚,Zambia,尚比亞,+260,.zm
+,,马达加斯加,Madagascar,馬達加斯加,+261,.mg
+,,津巴布韦,Zimbabwe,辛巴威,+263,.zw
+,,马拉维,Malawi,馬拉威,+265,.mw
+,,科摩罗,Comoros,葛摩,+269,.km
+,,厄立特里亚,Eritrea,厄利垂亞,+291,.er
+,,塞舌尔,Seychelles,塞席爾,+248,.sc
+,,埃塞俄比亚,Ethiopia,衣索比亞,+251,.et
+,中非,乍得,Chad,查德,+235,.td
+,,中非共和国,Central African Republic,中非共和國,+236,.cf
+,,喀麦隆,Cameroon,喀麥隆,+237,.cm
+,,圣多美和普林西比,Sao Tome and Principe,聖多美普林西比,+239,.st
+,,赤道几内亚,Equatorial Guinea,赤道幾內亞,+240,.gq
+,,加蓬,Gabon,加彭,+241,.ga
+,,刚果（布）,"Congo, Republic of the",剛果共和國,+242,.cg
+,,刚果（金）,"Congo, Democratic Republic of the",剛果民主共和國,+243,.cd
+,,安哥拉,Angola,安哥拉,+244,.ao
+,西非,冈比亚,Gambia,甘比亞,+220,.gm
+,,塞内加尔,Senegal,塞內加爾,+221,.sn
+,,毛里塔尼亚,Mauritania,茅利塔尼亞,+222,.mr
+,,马里,Mali,馬利,+223,.ml
+,,几内亚,Guinea,幾內亞,+224,.gn
+,,科特迪瓦,C?te d'Ivoire,象牙海岸,+225,.ci
+,,布基纳法索,Burkina Faso,布吉納法索,+226,.bf
+,,尼日尔,Niger,尼日,+227,.ne
+,,多哥,Togo,多哥,+228,.tg
+,,贝宁,Benin,貝南,+229,.bj
+,,利比里亚,Liberia,賴比瑞亞,+231,.lr
+,,塞拉利昂,Sierra Leone,獅子山,+232,.sl
+,,加纳,Ghana,迦納,+233,.gh
+,,尼日利亚,Nigeria,奈及利亞,+234,.ng
+,,佛得角,Cabo Verde,維德角,+238,.cv
+,,几内亚比绍,Guinea-Bissau,幾內亞比索,+245,.gw
+,南非,南非,South Africa,南非,+27,.za
+,,纳米比亚,Namibia,納米比亞,+264,.na
+,,莱索托,Lesotho,賴索托,+266,.ls
+,,博茨瓦纳,Botswana,波札那,+267,.bw
+,,斯威士兰,Eswatini,史瓦帝尼,+268,.sz
